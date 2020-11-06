@@ -4,4 +4,4 @@ while True:
     for i in word:
         new_word += chr(ord(i)+1)
         y = new_word.replace("{","a")
-        print(y)
+    print(y)
